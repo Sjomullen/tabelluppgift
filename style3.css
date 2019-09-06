@@ -1,0 +1,90 @@
+    table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption{
+    caption-side: bottom;
+    font-size: 55px;
+}
+
+tr:nth-child(1){
+    background-color: Grey;
+}
+
+tr:nth-child(2){
+    background-color: Orange;
+}
+
+tr:nth-child(3){
+    background: Red;
+}    
+
+tr:nth-child(4){
+    background-color: Orange;
+}
+
+tr:nth-child(5){
+    background-color: Red;
+}
+td:nth-child(4){
+    text-align: right;
+}
+
+td:nth-child(2){
+    text-align: center;
+}
+
+td:nth-child(3){
+    text-align: center;
+}
+
+th:nth-child(1){
+    text-align: left;
+}
+
+th:nth-child(2){
+    text-align: center;
+}
+
+th:nth-child(3){
+    text-align: center;
+}
+
+th:nth-child(4){
+    text-align: right;
+}
+
+.blue{
+    background: blue;
+    width: 65px;
+    height: 100px;
+}
+
+.red{
+    background: red;
+    width: 300x;
+    height: 50px;
+}
+.yellow{
+    background: yellow;
+    width: 85px;
+    height: 65px;
+}
+
+.black{
+    background: black;
+    width: 75px;
+    height: 100px;
+}
+
+.green{
+    background: green;
+    width: 65px;
+    height: 65px;
+}
+
+
+
+
+
